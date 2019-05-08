@@ -1,0 +1,9 @@
+{
+  "name": "Erika's NKS Test App",
+  "description": "The world's smallest app.",
+  "buildpacks": [
+    {
+      "url": "heroku/php"
+    }
+  ],
+}
